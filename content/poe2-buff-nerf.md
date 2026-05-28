@@ -12,8 +12,6 @@
 
 | ประเภท | เปลี่ยนแปลง | สถานะ |
 |--------|------------|--------|
-| 🔴 | Command Skills ลด penalty 70→50% | 🟢 Buff |
-| 🔴 | Cull the Weak รีเวิร์ค (109-281% dmg + dash) | 🟢 Buff |
 | 🟡 | Ancestral Bond — Totem 2x, 75 Spirit, ไม่ใช้ charges | 🔄 Rework |
 | 🟡 | Vaal Pact — 50% more Leech | 🔄 Rework |
 
@@ -21,8 +19,6 @@
 
 | ประเภท | เปลี่ยนแปลง | สถานะ |
 |--------|------------|--------|
-| 🔴 | Banners ไม่มี movement penalty | 🟢 Buff |
-| 🔴 | Barkskin ES→Armour buff | 🟢 Buff |
 | 🟡 | Ancestral Bond — Totem 2x, 75 Spirit | 🔄 Rework |
 
 ### <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/smith-of-kitava.webp" width="28"> Smith of Kitava
@@ -35,10 +31,7 @@
 
 ### <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/stormweaver.webp" width="28"> Stormweaver
 
-| ประเภท | เปลี่ยนแปลง | สถานะ |
-|--------|------------|--------|
-| 🔴 | Comet ดาเมจลด (212-318 เดิม 223-335 ที่ lv11) | 🟡 Nerf |
-| 🔴 | Fire-Infused Comet ดาเมจลดมาก (212-318 เดิม 279-418) | 🔴 Nerf |
+ไม่มีการเปลี่ยนแปลงเฉพาะตัวใน 0.5.0
 
 ### <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/chronomancer.webp" width="28"> Chronomancer
 
@@ -62,7 +55,6 @@
 
 | ประเภท | เปลี่ยนแปลง | สถานะ |
 |--------|------------|--------|
-| 🔴 | Minion bug fix — late-game +25-35% damage | 🟢 Buff |
 | 🟡 | Companion-themed 19 passive nodes | 🟢 Buff |
 | 🟡 | Trusted Kinship — 30% more Companion Reservation | 🔄 Rework |
 
@@ -79,9 +71,7 @@
 
 ### <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/lich.webp" width="28"> Lich
 
-| ประเภท | เปลี่ยนแปลง | สถานะ |
-|--------|------------|--------|
-| 🔴 | Chaos spell bug fixes | 🟢 Fix |
+ไม่มีการเปลี่ยนแปลงเฉพาะตัวใน 0.5.0
 
 ---
 
@@ -180,7 +170,6 @@
 
 | ประเภท | เปลี่ยนแปลง | สถานะ |
 |--------|------------|--------|
-| 🔴 | Minion bug fix — late-game +25-35% damage | 🟢 Buff |
 | 🟡 | Companion-themed 19 passive nodes | 🟢 Buff |
 
 ---
@@ -200,10 +189,17 @@
 
 | เปลี่ยน | สถานะ |
 |--------|--------|
+| **Command Skills** movement penalty 70→50% | 🟢 Buff |
+| **Cull the Weak** รีเวิร์ค — Can't be Evaded, 109-281% dmg, dash +15% (⚠️ Spear เท่านั้น) | 🟢 Buff |
+| **Banners** (Defiance/Dread/War) ไม่มี movement penalty, radius 4.5→6m | 🟢 Buff |
+| **Barkskin** 50→62% ES as Armour (ที่ lv8→20) | 🟢 Buff |
+| **Comet** ดาเมจลด 212-318 (เดิม 223-335 ที่ lv11) | 🟡 Nerf |
+| **Fire-Infused Comet** ดาเมจลดมาก 212-318 (เดิม 279-418) | 🔴 Nerf |
+| **Minion damage bug fix** — late-game +25-35% | 🟢 Buff |
+| **Chaos spell bug fixes** | 🟢 Fix |
 | Culling Threshold 30→35% | 🟢 Buff |
 | Leech resistance ลดลงทั้งเกม | 🟢 Buff |
 | Monster density ลด + Act 2 สั้น + Act 3 จัดใหม่ | 🟢 Campaign เร็วขึ้น |
-| Minion damage bug fix +25-35% | 🟢 Buff |
 | CI stun threshold fix | 🟢 CI กลับมา |
 | Hollow Palm Technique fix | 🟢 Unarmed |
 | Bleed ใช้กับ Spell Hits ได้ | 🟢 Spell bleed |
