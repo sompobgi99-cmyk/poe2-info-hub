@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}ข่าว PoE 2{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>📰 ข่าวสารล่าสุด</h1>
+  {% if last_updated %}<span class="page-meta">อัปเดตล่าสุด: {{ last_updated }}</span>{% endif %}
+</div>
+<article class="markdown-body news-page">
+  {{ content | safe }}
+</article>
+{% endblock %}

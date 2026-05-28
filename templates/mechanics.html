@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}League Mechanics PoE 2{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>⚙️ League Mechanics</h1>
+  {% if last_updated %}<span class="page-meta">อัปเดตล่าสุด: {{ last_updated }}</span>{% endif %}
+</div>
+<article class="markdown-body">
+  {{ content | safe }}
+</article>
+{% endblock %}

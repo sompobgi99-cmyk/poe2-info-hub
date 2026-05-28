@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  <title>{% block title %}PoE 2 Info Hub{% endblock %}</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='28' font-size='28'>⚔️</text></svg>">
+  <link rel="alternate" type="application/rss+xml" title="PoE 2 Info Hub RSS" href="/rss.xml">
+  {% block head %}{% endblock %}
+</head>
+<body>
+  <div class="bg-overlay"></div>
+
+  <nav class="top-nav">
+    <div class="nav-brand">
+      <span class="brand-icon">⚔️</span>
+      <span class="brand-text">Path of Exile 2</span>
+      <span class="brand-sub">Info Hub · ภาษาไทย</span>
+    </div>
+    <div class="nav-search">
+      <input type="text" id="search-box" placeholder="🔍 ค้นหา..." autocomplete="off">
+    </div>
+    <div class="nav-links">
+      <a href="/" class="nav-link {% if request.path == '/' %}active{% endif %}">🏠 หน้าแรก</a>
+      <a href="/guide" class="nav-link {% if request.path == '/guide' %}active{% endif %}">📖 คู่มือ</a>
+      <a href="/news" class="nav-link {% if request.path == '/news' %}active{% endif %}">📰 ข่าวสาร</a>
+      <a href="/patch-notes" class="nav-link {% if request.path == '/patch-notes' %}active{% endif %}">📋 Patch Notes</a>
+      <a href="/buff-nerf" class="nav-link {% if request.path == '/buff-nerf' %}active{% endif %}">⚖️ Buff/Nerf</a>
+      <a href="/meta" class="nav-link {% if request.path == '/meta' %}active{% endif %}">🏆 Meta</a>
+      <a href="/mechanics" class="nav-link {% if request.path == '/mechanics' %}active{% endif %}">⚙️ Mechanics</a>
+      <a href="/new-items" class="nav-link {% if request.path == '/new-items' %}active{% endif %}">🆕 ของใหม่</a>
+      <a href="/gems" class="nav-link {% if request.path == '/gems' %}active{% endif %}">🔮 Gems</a>
+      <a href="/currency" class="nav-link {% if request.path == '/currency' %}active{% endif %}">🪙 Currency</a>
+    </div>
+  </nav>
+
+  <div class="layout">
+    <main class="main-content">
+      {% if last_updated %}
+      <div class="freshness-bar">
+        🕐 อัปเดตล่าสุด: <strong>{{ last_updated }}</strong>
+        <span class="freshness-dot"></span>
+      </div>
+      {% endif %}
+      {% block content %}{% endblock %}
+    </main>
+    <aside id="toc" class="sidebar-toc"></aside>
+  </div>
+
+  <button id="back-to-top" title="Back to top">⬆</button>
+
+  <footer class="footer">
+    <span>สร้างโดย Hermes Agent · อัปเดตข่าวอัตโนมัติทุกวัน 09:00 น. · <a href="/rss.xml">📡 RSS</a> · <a href="/health">❤️ Status</a></span>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

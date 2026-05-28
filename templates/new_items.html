@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}ของใหม่ 0.5.0 — PoE 2{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>🆕 ของใหม่ใน Patch 0.5.0</h1>
+  {% if last_updated %}<span class="page-meta">อัปเดตล่าสุด: {{ last_updated }} · ข้อมูลจาก poe2db.tw</span>{% endif %}
+</div>
+<article class="markdown-body">
+  {{ content | safe }}
+</article>
+{% endblock %}
