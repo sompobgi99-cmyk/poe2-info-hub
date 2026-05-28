@@ -6,39 +6,51 @@
 
 ## 💎 Unique Items ใหม่ (ตัวอย่างเด่น 19/42 ชิ้น)
 
+> 🏷️ **ป้าย:** 🏆 Chase · ⚔️ Build-enabling · 🌱 Leveling · ⚒️ Crafting · ❓ Untested
+
+### 🏆 Chase Uniques (ของหายาก มูลค่าสูง)
+
 | รูป | ชื่อ | ประเภท | Lv | จุดเด่น |
 |-----|------|--------|-----|---------|
-| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/BrutusLeadSprinkler.png?key=_D9vYK7bmYTGbyMyuI1P3A&scale=1" width="64"> | **Brutus' Lead Sprinkler** | Morning Star · 1H Mace | 78 | ตีแรงตาม STR — Fire Damage 5-10 ต่อ 25 STR · 5% Trigger Molten Shower · 102% inc Phys |
-| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/EventidePetals.png?key=J4iebnsjXhnZJVt6lpSr0A&scale=1" width="64"> | **Eventide Petals** | Veridical Chain · Amulet | 78 | +32 Runic Ward · 32% inc Crit · Ice Crystals มี Life เพิ่มตาม Cold Res |
-| | **Facebreaker** | Stocky Mitts · Gloves | — | 🥊 ต่อยมือเปล่า! 1% more Unarmed Damage ต่อ 5 STR · มือนับเป็น 1H Mace · +Armour ต่อ STR |
-| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/HorrorsFlight.png?key=d34bflK0NQZnAS0IRDw58Q&scale=1" width="64"> | **Horror's Flight** | Engraved Bracers · Gloves | 78 | เพิ่ม Chaos Damage ให้ Attack · ได้ Fear Incarnate เมื่อ Cull เป้า · 213% inc Evasion |
-| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/Ironbound.png?key=-hG7SOvIWGpwy2h0xUuMKg&scale=1" width="64"> | **Ironbound** | Warden Bow | 11 | Block = Damage — Phys Damage เพิ่มตาม %Block · ลูกศรย้อนกลับถ้าเจาะเป้า Armour Broken |
-| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/LiminalCoil.png?key=H3KgwFK3dMtA_c7Osj0BdA&scale=1" width="64"> | **Liminal Coil** | Twisted Wand | 72 | Curse Stacker — Curse ไม่มีผลลดทอน · ไม่จำกัด Curse · ได้ Extra Chaos/Phys 27% ต่อ Curse |
-| | **Nightfall** | Fortress Tower Shield | 65 | กัน Fire/Lightning → แปลงเป็น Cold · Block 30% · +150 Str Req |
-| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/Periphery.png?key=t34DGTee_vHPZzR-QSuzMQ&scale=1" width="64"> | **Periphery** | Heartwood Shortbow | 72 | All-Element Archer — Fire/Cold/Lightning ทุกธาตุช่วย Ignite/Chill/Shock ได้หมด |
-| | **Redemption** | Trarthan Cannon · Crossbow | 65 | 💣 Grenade Machine — ยิงกระสุนเองไม่ได้ · ใช้ Grenade สะสม Rhythm → ระเบิด Fervour |
-| <img src="https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Uniques/HuskOfDreams.webp" width="64"> | **Reverie** | Shaman Mantle · Body | 84 | ใช้ Life Flask ไม่ได้ แต่ Non-Unique Life Flask ทำงานถาวร · 48% less Flask Recovery |
-| <img src="https://cdn.poe2db.tw/image/0.5/KalgForgeGuardMace.webp" width="64"> | **Serle's Grit** | Kalguuran Forgehammer | 47 | ⚒️ งานคราฟ — มี 3 Sockets · Quality สูงสุด 40% · Skills ที่ Empower Attack มีโอกาสไม่นับ |
-| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/SylvansEffigy.png?key=BIR7FC2c2-MpMi6BjJ9bmQ&scale=1" width="64"> | **Sylvan's Effigy** | Stoic Sceptre | 78 | 🐺 Companion Master — มี Companion ได้ไม่จำกัดชนิด · +Spirit 54% · Allies Regen |
-| | **The Auspex** | Exquisite Vest · Body | 84 | Deflect Lucky ขณะ Low Life · ศัตรูใน Presence ได้ Gruelling Madness ทุกวิ · +109 Life |
-| <img src="https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Uniques/MaskOfTheHollow.webp" width="64"> | **The Hollow Mask** | Hewn Mask · Helmet | 84 | Remnants ที่สร้าง แชร์ให้ Allies ด้วย · 15% Phys Reduction · Reservation Efficiency 94% |
-| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/TheOrdained.png?key=A5Xiv5YqD0X156J5YX0yDg&scale=1" width="64"> | **The Ordained** | Grand Spear | 79 | Life Leech ใช้ Lightning Damage ได้ด้วย · สร้าง Fragment of Divinity ทุก 4 วิ · Crit 11.47% |
-| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/TheRavensFlock.png?key=ku4zokeiQBzTDVvoN1ovLw&scale=1" width="64"> | **The Raven's Flock** | Perching Staff | 78 | 🦅 Minion Caster — Minion Damage 111% · ติด Gruelling Madness on Hit · +24 Int |
-| <img src="https://cdn.poe2db.tw/image/0.5/TheUnleashed.webp" width="64"> | **The Unleashed** | Revered Vestments · Body | 65 | Shapeshift synergy — สูญเสีย Runic Bindings แลก Unbound Potential · +1% Max Ele Res |
-| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/TwistedEmpyrean.png?key=Bf_3w5fAXUViPusiebCR3A&scale=1" width="64"> | **Twisted Empyrean** | Aberrant Sledge · 2H Mace | 78 | ❄️ Mana Stacker — Cold Damage เพิ่ม 6-10% max Mana · แปลง Fire→Cold 100% · กันดาเมจด้วย Mana |
-| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/Voices.png?key=zKZnw6LxrGBMCB4qq0eUcA&scale=1" width="64"> | **Voices** | Sapphire · Jewel | — | 💎 Allocates 2-4 Sinister Jewel Sockets · Corrupted · ใช้ได้ 1 ชิ้น |
+| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/Voices.png?key=zKZnw6LxrGBMCB4qq0eUcA&scale=1" width="64"> | **Voices** 💎 | Sapphire · Jewel | — | Allocates 2-4 Sinister Jewel Sockets · Corrupted · ใช้ได้ 1 ชิ้น |
+| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/LiminalCoil.png?key=H3KgwFK3dMtA_c7Osj0BdA&scale=1" width="64"> | **Liminal Coil** | Twisted Wand | 72 | Curse Stacker — Curse magnitudes = 0 · ไม่จำกัด Curse · ได้ Extra Chaos + Phys 27% ต่อ Curse (รวม 54%) |
 
-### 🏆 สรุป Unique น่าเล่น
+### ⚔️ Build-enabling Uniques (เปลี่ยนวิธีเล่น)
 
-| ชื่อ | สาย | เพราะอะไร |
-|------|-----|-----------|
-| **Facebreaker** | Melee / Str Stacker | ต่อยเปล่าแรงตาม STR ไม่ต้องพึ่งอาวุธ — Unarmed Build กลับมาแล้ว! |
-| **Liminal Coil** | Curse / Occultist | Curse ไม่อั้น — stack ได้เรื่อยๆ ไม่มี diminishing returns |
-| **Twisted Empyrean** | Mana Stacker / Cold | แปลง Fire → Cold 100% + ดาเมจสเกลตาม Mana — MoM บนสเตียรอยด์ |
-| **Sylvan's Effigy** | Minion / Companion | Companion ไม่อั้น — ใช้สัตว์ได้ทุกชนิดพร้อมกัน |
-| **Reverie** | Flask Stacker | Life Flask ถาวร — เปลี่ยน Flask ให้เป็นบัฟ permanent |
-| **The Ordained** | Spear / Hybrid | Lightning Leech + Fragment ทุก 4 วิ — sustain โหด |
-| **Voices** | Jewel / All Builds | Jewel Socket เพิ่ม 2-4 อัน — ปั้น Passive Tree ได้บ้าคลั่ง |
+| รูป | ชื่อ | ประเภท | Lv | จุดเด่น |
+|-----|------|--------|-----|---------|
+| | **Facebreaker** 🥊 | Stocky Mitts · Gloves | — | ต่อยมือเปล่า! 1% more Unarmed ต่อ 5 STR · โจมตีมือนับเสมือนใช้ 1H Mace |
+| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/TwistedEmpyrean.png?key=Bf_3w5fAXUViPusiebCR3A&scale=1" width="64"> | **Twisted Empyrean** ❄️ | Aberrant Sledge · 2H Mace | 78 | Mana Stacker — Cold Damage 6-10% max Mana · แปลง Fire→Cold 100% · MoM |
+| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/SylvansEffigy.png?key=BIR7FC2c2-MpMi6BjJ9bmQ&scale=1" width="64"> | **Sylvan's Effigy** 🐺 | Stoic Sceptre | 78 | Companion Master — มี Companion ได้ไม่จำกัดชนิด · +Spirit 54% |
+| <img src="https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Uniques/HuskOfDreams.webp" width="64"> | **Reverie** 🧪 | Shaman Mantle · Body | 84 | Life Flask ถาวร — Non-Unique Life Flask ทำงานถาวร · ใช้ Flask ไม่ได้ |
+| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/BrutusLeadSprinkler.png?key=_D9vYK7bmYTGbyMyuI1P3A&scale=1" width="64"> | **Brutus' Lead Sprinkler** | Morning Star · 1H Mace | 78 | STR Stacker — Fire Damage 5-10 ต่อ 25 STR · 5% Trigger Molten Shower |
+| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/TheOrdained.png?key=A5Xiv5Yq0DX156J5YX0yDg&scale=1" width="64"> | **The Ordained** ⚡ | Grand Spear | 79 | Lightning Leech + Fragment of Divinity ทุก 4 วิ · Crit 11.47% |
+| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/Periphery.png?key=t34DGTee_vHPZzR-QSuzMQ&scale=1" width="64"> | **Periphery** 🎯 | Heartwood Shortbow | 72 | All-Element Archer — Fire/Cold/Lightning ช่วย Ignite/Chill/Shock ได้หมด |
+
+### 🌱 Leveling Uniques (ใช้ levelling ได้)
+
+| รูป | ชื่อ | ประเภท | Lv | จุดเด่น |
+|-----|------|--------|-----|---------|
+| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/Ironbound.png?key=-hG7SOvIWGpwy2h0xUuMKg&scale=1" width="64"> | **Ironbound** | Warden Bow | 11 | Block = Damage — Phys เพิ่มตาม %Block · ลูกศรย้อนกลับถ้าเจาะ Armour Broken |
+
+### ⚒️ Crafting / Runeforging
+
+| รูป | ชื่อ | ประเภท | Lv | จุดเด่น |
+|-----|------|--------|-----|---------|
+| <img src="https://cdn.poe2db.tw/image/0.5/KalgForgeGuardMace.webp" width="64"> | **Serle's Grit** ⚒️ | Kalguuran Forgehammer | 47 | 3 Sockets · Quality สูงสุด 40% · Empower Attack มีโอกาสไม่นับ |
+
+### ❓ Untested / รอข้อมูลเพิ่มเติม
+
+| รูป | ชื่อ | ประเภท | Lv | จุดเด่น |
+|-----|------|--------|-----|---------|
+| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/EventidePetals.png?key=J4iebnsjXhnZJVt6lpSr0A&scale=1" width="64"> | **Eventide Petals** | Veridical Chain · Amulet | 78 | +32 Runic Ward · Ice Crystals มี Life เพิ่มตาม Cold Res |
+| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/HorrorsFlight.png?key=d34bflK0NQZnAS0IRDw58Q&scale=1" width="64"> | **Horror's Flight** | Engraved Bracers · Gloves | 78 | Chaos Damage ให้ Attack · Fear Incarnate เมื่อ Cull |
+| | **Nightfall** | Fortress Tower Shield | 65 | กัน Fire/Lightning → แปลงเป็น Cold · Block 30% |
+| | **Redemption** 💣 | Trarthan Cannon · Crossbow | 65 | Grenade Machine — ยิงกระสุนเองไม่ได้ · สะสม Rhythm → ระเบิด |
+| | **The Auspex** | Exquisite Vest · Body | 84 | Deflect Lucky ขณะ Low Life · Gruelling Madness |
+| <img src="https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Uniques/MaskOfTheHollow.webp" width="64"> | **The Hollow Mask** | Hewn Mask · Helmet | 84 | Remnants แชร์ให้ Allies · 94% Reservation Efficiency |
+| <img src="https://web.poecdn.com/protected/image/poe2/announcements/return-of-the-ancients/items/TheRavensFlock.png?key=ku4zokeiQBzTDVvoN1ovLw&scale=1" width="64"> | **The Raven's Flock** 🦅 | Perching Staff | 78 | Minion Damage 111% · Gruelling Madness on Hit |
+| <img src="https://cdn.poe2db.tw/image/0.5/TheUnleashed.webp" width="64"> | **The Unleashed** | Revered Vestments · Body | 65 | Shapeshift synergy — Unbound Potential · +1% Max Ele Res |
 
 ---
 
