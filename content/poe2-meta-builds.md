@@ -12,7 +12,7 @@
 |---|------|-----|-----------|------|-------------|-----------|
 | 🟢 | **S** | <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/titan.webp" width="24"> | Titan | Warrior | ⬆️ A→S | ได้ประโยชน์สูงจากระบบใหม่ — Totem/Banner/Leech/Facebreaker |
 | 🟢 | **S** | <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/chronomancer.webp" width="24"> | Chronomancer | Sorceress | ⬆️⬆️ C→S | 🔥 Rework 5 จุด — ลด damage + Echo + Skill Speed |
-| 🟡 | **A** | <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/deadeye.webp" width="24"> | Deadeye | Ranger | ⬆️ A→S | ระบบเอื้อ clear speed · แต่ LA/Ice Shot มี nerf เล็กน้อย |
+| 🟡 | **A** | <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/deadeye.webp" width="24"> | Deadeye | Ranger | ⬇️ S→A | ระบบเอื้อ clear speed · แต่ LA/Ice Shot มี nerf เล็กน้อย |
 | 🟡 | **A** | <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/infernalist.webp" width="24"> | Infernalist | Witch | S→A | Minion bug fix +25-35% + Companion synergy |
 | 🟡 | **A** | <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/blood-mage.webp" width="24"> | Blood Mage | Witch | ⬆️ C→A | Leech node buff แต่ระบบ Leech เปลี่ยน — ต้องทดสอบ |
 | 🟡 | **A** | <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/witchhunter.webp" width="24"> | Witchhunter | Mercenary | — | Culling threshold buff + boss killer ยังดี |
