@@ -4,13 +4,13 @@
 <section class="hero">
   <h1 class="hero-title">⚔️ Path of Exile 2</h1>
   <p class="hero-sub">ศูนย์รวมข้อมูลภาษาไทย — คู่มือ, ข่าวสาร, Build Guides และทุกเรื่องของ PoE 2</p>
-  <div class="hero-badge">Patch 0.5 · Return of the Ancients · เปิดแล้ว! 🚀</div>
+  <div class="hero-badge">Patch 0.5 · Return of the Ancients · เปิด 30 พ.ค. 03:00 น. ⏳</div>
 </section>
 
 <div id="econ-widget" class="econ-widget">
-  <h3>💰 ราคา Currency (Standard)</h3>
+  <span class="econ-label">💰 ราคา Currency</span>
   <div class="econ-grid" id="econ-grid">
-    <div class="econ-item"><span class="econ-price">⏳</span></div>
+    <div class="econ-item"><span class="econ-price" style="color:var(--text-dim);font-size:0.85rem">⏳ รอเศรษฐกิจหลังเปิดเซิร์ฟ 30 พ.ค.</span></div>
   </div>
 </div>
 
@@ -66,7 +66,7 @@
   <a href="/new-items" class="card" style="border-color: var(--gold-dim);">
     <div class="card-icon">🆕</div>
     <h2 class="card-title">ของใหม่ใน 0.5.0</h2>
-    <p class="card-desc">Unique ใหม่ 19 ชิ้น · Gem ใหม่ 75 เม็ด · ข้อมูลจาก poe2db.tw</p>
+    <p class="card-desc">Unique ใหม่ 42 ชิ้น · Gem ใหม่ 75 เม็ด · ข้อมูลจาก poe2db.tw</p>
     {% if freshness and freshness.get('ของใหม่ 0.5') %}
     <span class="card-meta">{{ freshness['ของใหม่ 0.5'] }}</span>
     {% endif %}
@@ -94,7 +94,7 @@
     const res = await fetch('/api/economy');
     const data = await res.json();
     if (data.status === 'unavailable' || !data.currencies || Object.keys(data.currencies).length === 0) {
-      grid.innerHTML = `<div class="econ-error">⏳ ข้อมูลเศรษฐกิจจะเริ่มแสดงหลังจากเซิร์ฟเวอร์เปิด 29 พ.ค. 2569<br>
+      grid.innerHTML = `<div class="econ-error">⏳ ข้อมูลเศรษฐกิจจะเริ่มแสดงหลังเซิร์ฟเวอร์เปิด 30 พ.ค. 2026<br>
         <small style="color:var(--text-dim)">poe.ninja เปลี่ยน API — ระหว่างรออัปเดตระบบ</small></div>`;
       return;
     }
@@ -120,7 +120,7 @@
       </div>`;
     }).join('');
   } catch(e) {
-    grid.innerHTML = `<div class="econ-error">⏳ ข้อมูลเศรษฐกิจจะเริ่มแสดงหลังจากเซิร์ฟเวอร์เปิด 29 พ.ค. 2569</div>`;
+    grid.innerHTML = `<div class="econ-error">⏳ ข้อมูลเศรษฐกิจจะเริ่มแสดงหลังเซิร์ฟเวอร์เปิด 30 พ.ค. 2026</div>`;
   }
 })();
 </script>

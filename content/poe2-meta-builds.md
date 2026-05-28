@@ -1,6 +1,8 @@
 # 🏆 Meta & Builds — PoE 2 (0.5.0 Return of the Ancients)
 
-> วิเคราะห์โดย Hermes Agent · Patch Notes 0.5.0 + poe2db.tw + Maxroll · อัปเดต: 28 พฤษภาคม 2026
+> ⚠️ **คาดการณ์ก่อนแพตช์เปิด (28 พ.ค. 2026)** — Tier List นี้วิเคราะห์จาก Patch Notes + ข้อมูลก่อนเซิร์ฟเวอร์เปิดจริง 29 พ.ค. ตัวเลขจริงและ Build อาจเปลี่ยนหลังเปิดเซิร์ฟ
+>
+> วิเคราะห์โดย Hermes Agent · Patch Notes 0.5.0 + poe2db.tw + Maxroll
 >
 > ⚠️ **หมายเหตุสำคัญ:** 0.5.0 เน้นเปลี่ยนระบบ (Skills, Keystones, Monster) มากกว่าเปลี่ยน Ascendancy โดยตรง — หลายอย่างที่ดูเหมือน Buff เฉพาะคลาส จริงๆแล้วทุกคนได้
 

@@ -353,7 +353,7 @@ def _build_rss():
     <title>{title_esc}</title>
     <description>{desc}</description>
     <pubDate>{date_str}T09:00:00+07:00</pubDate>
-    <link>http://localhost:5050/news</link>
+    <link>https://poe2-info-hub.onrender.com/news</link>
   </item>
 """
 
@@ -361,7 +361,7 @@ def _build_rss():
 <rss version="2.0">
 <channel>
   <title>PoE 2 Info Hub — ข่าวสารภาษาไทย</title>
-  <link>http://localhost:5050/news</link>
+  <link>https://poe2-info-hub.onrender.com/news</link>
   <description>ศูนย์รวมข่าวสาร Path of Exile 2 ภาษาไทย อัปเดตทุกวัน</description>
   <language>th</language>
 {items_xml}
