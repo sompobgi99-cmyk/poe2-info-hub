@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}⚠️ Caveats — ข้อควรระวัง PoE 2{% endblock %}
+{% block content %}
+<div class="content markdown-body">
+  {{ content|safe }}
+</div>
+<p class="last-updated">🕐 อัปเดตล่าสุด: <strong>{{ last_updated }}</strong></p>
+{% endblock %}

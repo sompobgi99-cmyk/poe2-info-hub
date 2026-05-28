@@ -22,6 +22,7 @@ LEAGUE_PATH = _os.path.join(CONTENT_DIR, "poe2-league-mechanics.md")
 NEW_ITEMS_PATH = _os.path.join(CONTENT_DIR, "poe2-new-items-0.5.md")
 CURRENCY_PATH = _os.path.join(CONTENT_DIR, "poe2-currency-reference.md")
 GEM_PATH = _os.path.join(CONTENT_DIR, "poe2-gem-reference.md")
+CAVEAT_PATH = _os.path.join(CONTENT_DIR, "poe2-caveats.md")
 
 START_TIME = datetime.now(timezone.utc).isoformat()
 
@@ -35,6 +36,7 @@ PAGES = {
     "ของใหม่ 0.5": ("/new-items", NEW_ITEMS_PATH),
     "Currency": ("/currency", CURRENCY_PATH),
     "Gems": ("/gems", GEM_PATH),
+    "⚠️ Caveats": ("/caveats", CAVEAT_PATH),
 }
 
 
@@ -203,6 +205,13 @@ def gems():
     html = md_to_html(GEM_PATH, "ยังไม่มีข้อมูล Gem Reference")
     mtime = file_mtime(GEM_PATH)
     return render_template("gems.html", content=html, last_updated=mtime)
+
+
+@app.route("/caveats")
+def caveats():
+    html = md_to_html(CAVEAT_PATH, "ยังไม่มีข้อมูล Caveats")
+    mtime = file_mtime(CAVEAT_PATH)
+    return render_template("caveats.html", content=html, last_updated=mtime)
 
 
 # ============================================================
