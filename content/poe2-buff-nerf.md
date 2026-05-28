@@ -179,7 +179,7 @@
 | Keystone | เปลี่ยนแปลง | สถานะ |
 |----------|------------|--------|
 | **Ancestral Bond** | Totem Limit x2, ไม่ใช้ charges, จอง 75 Spirit | 🔄 Rework |
-| **Vaal Pact** | 50% more Life Leech, ไม่มี Life Recovery (ยกเว้น Leech) | 🔄 Rework |
+| **Vaal Pact** | 50% more Leech, 67% less Leech speed, ไม่มี Life Recovery อื่น | 🔄 Rework |
 | **Trusted Kinship** | 30% more Companion, 20% less non-Companion | 🔄 Rework |
 | **Chaos Inoculation** | แก้ stun threshold bug | 🟢 Fix |
 
