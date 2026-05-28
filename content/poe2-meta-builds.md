@@ -112,9 +112,85 @@ Titan **ไม่มี 🔴 buff โดยตรงเลย** — แต่ร
 
 ---
 
-### 🥉 B-Tier (รวม Unknown/High Potential)
+#### Infernalist — Minion + Companion synergy (🟡 Medium Confidence)
 
-#### Spirit Walker 🆕 — High Potential, รอ number (🔴 Low Confidence)
+| หมวด | เปลี่ยน | ผล |
+|------|--------|-----|
+| 🟢 System | **Minion damage +25-35%** late-game (bug fix) | Minion build ทุกสายแรงขึ้น |
+| 🌳 Global | **Companion 19 passive nodes** (tree ใหม่) | Minion + Companion synergy |
+| 🟡 Keystone | **Trusted Kinship** — 30% more Companion Reservation | จอง Minion ได้มากขึ้น |
+| 💎 Unique | **Sylvan's Effigy** — Companion ไม่จำกัดชนิด | Minion + Companion = กองทัพ |
+| 🧟 Monster | Leech resistance ลด + Campaign เร็ว | QoL |
+
+> 💡 **Build แนะนำ:** SRS · Minion Army · Fire Minion Hybrid
+
+---
+
+#### Witchhunter — Culling threshold buff (🟡 Medium Confidence)
+
+| หมวด | เปลี่ยน | ผล |
+|------|--------|-----|
+| 🧟 Monster | **Culling 30→35%** | Boss killer — cull ที่ 35% HP |
+| 🔴 Ascendancy | Obsessive Rituals: 35→50% less Armour/Evasion | 🔴 Nerf — tanky ลด |
+| 🧟 Monster | Leech resistance ลด + Campaign เร็ว | Sustain + clear |
+
+> 💡 **Build แนะนำ:** Grenade Merc · Crossbow Boss Killer
+
+---
+
+#### Pathfinder — 2 nerfs แต่ยังเก๋า (🟢 High Confidence)
+
+| หมวด | เปลี่ยน | ผล |
+|------|--------|-----|
+| 🔴 Ascendancy | Overwhelming Toxicity: less Poison Duration 35→**50%** | Poison หมดเร็ว — reapply บ่อย |
+| 🔴 Ascendancy | Running Assault: less Movement Penalty 50→**30%** | 🔴 Nerf |
+| 🧟 Monster | Campaign เร็ว + Leech buff | Early game ยังแข็ง |
+
+> 💡 **Build แนะนำ:** Poison Concoction · Poison Bow
+
+---
+
+#### Amazon — Cull the Weak Spear buff โดยตรง (🟡 Medium Confidence)
+
+| หมวด | เปลี่ยน | ผล |
+|------|--------|-----|
+| 🟢 System | **Cull the Weak** รีเวิร์ค — Spear skill, 109-281% dmg | Spear build แรงขึ้น — Amazon ใช้ Spear หลัก |
+| 🧟 Monster | Culling 30→35% | Double dip culling |
+| 🧟 Monster | Campaign เร็ว | Spear clear เร็ว |
+
+> 💡 **Build แนะนำ:** Spear Lightning · Cull the Weak + Lightning spells
+
+---
+
+#### Oracle — พื้นฐานแข็ง แต่ 0.5.0 แทบไม่ได้เพิ่ม (🟡 Medium Confidence)
+
+| หมวด | เปลี่ยน | ผล |
+|------|--------|-----|
+| 🔴 Ascendancy | Align Fate — visage frequency | โบนัสเกิดบ่อยขึ้น |
+| 🌳 Passive | ES Recharge buff | Defence |
+| 🧟 Monster | Campaign เร็ว + Leech buff | Spellcaster scale ดี |
+
+> 💡 **Build แนะนำ:** Lightning Caster · Visage Stacker
+
+---
+
+#### Lich — Liminal Coil synergy (🟡 Medium Confidence)
+
+⚠️ **0 Ascendancy change** — แต่ Unique ใหม่ช่วย:
+
+| หมวด | เปลี่ยน | ผล |
+|------|--------|-----|
+| 💎 Unique | **Liminal Coil** — Curse ไม่จำกัด + 27% Chaos + 27% Phys ต่อ Curse | Damage ceiling = ∞ |
+| 🟢 System | Chaos spell bug fixes | Consistency |
+| 🧟 Monster | Culling 30→35% + Leech buff | Chaos DoT |
+
+> 💡 **Build แนะนำ:** Curse Stacker · Chaos DoT · Hexblast
+
+---
+
+### 🥉 B-Tier
+
+#### Spirit Walker 🆕 — รอ number จริง (🔴 Low Confidence)
 
 | หมวด | เปลี่ยน | ผล |
 |------|--------|-----|
@@ -155,24 +231,35 @@ Titan **ไม่มี 🔴 buff โดยตรงเลย** — แต่ร
 
 ---
 
-### B-Tier (ต่อ)
+#### Invoker — ไม่มีอะไรใหม่ (🟡 Medium Confidence)
 
-| Ascendancy | วิเคราะห์ | Confidence |
-|-----------|----------|------------|
-| **Invoker** | ไม่มี nerf — Culling Threshold + Leech buff ช่วย · แต่ Martial Artist แย่ง spotlight | 🟡 |
-| **Shaman** | Minion bug fix + Companion passive (**global tree** ไม่ใช่ buff เฉพาะ) | 🟡 |
-| **Tactician** | 0 Ascendancy change · Banner + Party synergy | 🟡 |
+ไม่มี nerf โดยตรง — แต่ Martial Artist แย่ง spotlight · Culling Threshold + Leech buff ช่วย damage/sustain · ยัง Freeze ทุกอย่างได้
+
+#### Shaman — Global passive synergy (🟡 Medium Confidence)
+
+Minion bug fix + Companion passive (**global tree** ไม่ใช่ buff เฉพาะ) — Elemental + Minion hybrid
+
+#### Tactician — 0 Ascendancy change (🟡 Medium Confidence)
+
+Banner + Party synergy — Fortress อาจมีประโยชน์ตอน party play · เหมาะสาย support
 
 ### C-Tier
 
-| Ascendancy | วิเคราะห์ | Confidence |
-|-----------|----------|------------|
-| **Warbringer** | ระบบเดียวกับ Titan ทุกอย่าง · แต่ Titan base ดีกว่า | 🟡 |
-| **Gemling** | Crystalline ถูกลบ → Essence of Virtue · 75 gems ใหม่ = potential | 🔴 |
-| **Acolyte** | Leech buff · Chaos Monk ยัง niche | 🟡 |
-| **Smith** | คราฟ = niche | 🟡 |
-| **Disciple** | Chronomancer บัง | 🟡 |
-| **Ritualist** | ไม่เปลี่ยน | 🟡 |
+#### Warbringer — Titan ทับซ้อน (🟡 Medium Confidence)
+
+ระบบเดียวกับ Titan ทุกอย่าง (Ancestral Bond, Banners, Leech) — แต่ Titan base ascendancy ดีกว่า · ไม่มีเหตุผลเล่น Warbringer นอกจากชอบ
+
+#### Gemling Legionnaire — รอ week 2 (🔴 Low Confidence)
+
+Crystalline ถูกลบ → Essence of Virtue + Advanced Thaumaturgy · **75 gems ใหม่** = ศักยภาพระยะยาว · Day 1 = C, Week 2 อาจเป็น A
+
+#### Acolyte of Chayula — Niche (🟡 Medium Confidence)
+
+Leech buff (15→20%) + Leech resistance ลด = sustain ดี · แต่ Chaos Monk ยัง niche · ES Recharge buff ช่วย
+
+#### Smith of Kitava / Disciple of Varashta / Ritualist (🟡 Medium Confidence)
+
+0 Ascendancy change — niche หรือถูกบังโดยคลาสอื่น
 
 ---
 
