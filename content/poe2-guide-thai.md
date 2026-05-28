@@ -353,27 +353,33 @@ ExileCon:    Nov 7-8, 2026 — ประกาศ 1.0
 
 ## 13. Meta & Builds
 
-> 📊 ดูวิเคราะห์เต็มที่หน้า [Meta & Builds](/meta) — นี่คือสรุป
+> 📊 ดูวิเคราะห์เต็มที่หน้า [Meta & Builds](/meta) — นี่คือสรุปย่อ
+> ⚠️ **Pre-launch Prediction (28 พ.ค. 2026)** — ข้อมูลอาจเปลี่ยนหลังเปิดเซิร์ฟ 30 พ.ค.
 
-### 🏆 Hermes Tier List — 0.5.0 League Start
+### 🏆 Tier List — Pre-launch Prediction
 
 | Tier | Ascendancy | แนวทาง |
 |------|-----------|--------|
-| **S** | **Titan** | Melee กลับมา! Totem/Banner + Fortress + Facebreaker |
-| **S** | **Deadeye** | Lightning Arrow — ไม่มีวันตาย |
-| **S** | **Chronomancer** | Rework ใหญ่ — Phased Form 30% + Temporal Rift |
-| **S** | **Oracle** | Spellcaster สายฟ้า — แรงตั้งแต่ Act 1 |
-| **A** | **Infernalist** | Minion bug fix +25-35% damage |
-| **A** | **Blood Mage** | Leech 20% + Vaal Pact synergy |
-| **A** | **Witchhunter** | Grenade — Boss killer อันดับต้น |
-| **A** | **Spirit Walker** 🆕 | Companion Hunter — ถ้า number ดี = S |
+| **S** | **Titan** | ได้ประโยชน์สูงจากระบบใหม่ — Totem/Banner/Facebreaker |
+| **S** | **Chronomancer** | 🔥 Rework 5 จุด — Phased Form + Echo + Skill Speed |
+| **A** | **Deadeye** | ระบบเอื้อ clear speed · แต่ LA/Ice Shot มี nerf |
+| **A** | **Infernalist** | Minion bug fix +25-35% + Companion synergy |
+| **A** | **Blood Mage** | Leech node buff แต่ระบบ Leech เปลี่ยน — ต้องทดสอบ |
+| **A** | **Witchhunter** | Culling threshold buff + boss killer |
+| **A** | **Pathfinder** | 2 nerfs — แต่ early game ยังแข็ง |
+| **A** | **Amazon** | Cull the Weak Spear buff โดยตรง |
+| **A** | **Oracle** | พื้นฐานแข็ง — 0.5.0 แทบไม่ได้เพิ่ม |
+| **A** | **Lich** | Liminal Coil synergy |
+| **B** | **Spirit Walker** 🆕 | 🔴 รอ number จริง — speculation |
+| **B** | **Martial Artist** 🆕 | 🔴 รอ number จริง — speculation |
+| **B** | **Stormweaver** | Comet variant nerf — Archmage ยังดี |
 
 ### 🎯 แนะนำ Day 1
 
-- 🥇 **Titan Earthquake** — Tanky, Melee ใหม่, Totem/Banner ใช้คล่องขึ้น
-- 🥈 **Deadeye Lightning Arrow** — เคลียร์ไว ต้นทุนต่ำ
-- 🥉 **Oracle Spellcaster** — เวทแรง ไม่ต้องใช้ unique
-- 🏅 **Infernalist Minions** — Minion เล่นให้ ไม่ต้องทำอะไรเอง
+- 🥇 **Titan Earthquake** — Totem 2x + Facebreaker + Banners
+- 🥈 **Deadeye Lightning Arrow** — เร็ว · Culling ดี · LA โดน nerf แต่ยังแรง
+- 🥉 **Oracle Lightning Caster** — แรง Act 1 · ES buff
+- 🏅 **Infernalist Minions** — Minion +25-35% · เล่นง่าย
 
 ---
 
