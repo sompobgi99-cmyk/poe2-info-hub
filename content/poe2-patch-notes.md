@@ -249,7 +249,7 @@
 
 ### 🆕 Items & Gems (0.5.0)
 - Lineage Supports ใหม่ 23 ตัว (Arbiter's Reach, Breachlord's Amalgam, Trickster's Shard, Vorana's Siege ฯลฯ)
-- Unique Items ใหม่ 44 ชิ้น (Mageblood, Berek's Grip/Pass/Respite, Facebreaker, Brutus' Lead Sprinkler, Loreweave, Voices, Split Personality, The Raven's Flock, Gatecrasher, Opportunity, Redemption ฯลฯ)
+- Unique Items ใหม่ 42 ชิ้น (Mageblood, Berek's Grip/Pass/Respite, Facebreaker, Brutus' Lead Sprinkler, Loreweave, Voices, Split Personality, The Raven's Flock, Gatecrasher, Opportunity, Redemption ฯลฯ)
 - Idols ใหม่ 8 (จาก Azmeri Spirits)
 - Minion Splash Support I & II
 

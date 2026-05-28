@@ -55,7 +55,7 @@
 
 | ประเภท | เปลี่ยนแปลง | สถานะ |
 |--------|------------|--------|
-| 🟡 | Companion-themed 19 passive nodes | 🟢 Buff |
+| 🟡 | Companion-themed 19 passive nodes (global passive tree) | 🟢 Buff |
 | 🟡 | Trusted Kinship — 30% more Companion Reservation | 🔄 Rework |
 
 ### <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/blood-mage.webp" width="28"> Blood Mage
@@ -100,7 +100,7 @@
 | ประเภท | เปลี่ยนแปลง | สถานะ |
 |--------|------------|--------|
 | 🔴 | Ascendancy ใหม่ — Stag/Owl/Bear spirits, ปราบบอสมาเป็นเพื่อน | 🆕 New |
-| 🟡 | Companion-themed 19 passive nodes | 🟢 Buff |
+| 🟡 | Companion-themed 19 passive nodes (global passive tree) | 🟢 Buff |
 | 🟡 | Trusted Kinship — 30% more Companion Reservation | 🔄 Rework |
 
 ### <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/ritualist.webp" width="28"> Ritualist
@@ -170,7 +170,7 @@
 
 | ประเภท | เปลี่ยนแปลง | สถานะ |
 |--------|------------|--------|
-| 🟡 | Companion-themed 19 passive nodes | 🟢 Buff |
+| 🟡 | Companion-themed 19 passive nodes (global passive tree) | 🟢 Buff |
 
 ---
 
@@ -189,7 +189,7 @@
 
 | เปลี่ยน | สถานะ |
 |--------|--------|
-| **Command Skills** movement penalty 70→50% | 🟢 Buff |
+| **Command Skills** movement penalty 70→50% | 🟢 Buff เฉพาะ build ที่ใช้ Command Skills |
 | **Cull the Weak** รีเวิร์ค — Can't be Evaded, 109-281% dmg, dash +15% (⚠️ Spear เท่านั้น) | 🟢 Buff |
 | **Banners** (Defiance/Dread/War) ไม่มี movement penalty, radius 4.5→6m | 🟢 Buff |
 | **Barkskin** 50→62% ES as Armour (ที่ lv8→20) | 🟢 Buff |

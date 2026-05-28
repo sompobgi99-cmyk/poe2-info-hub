@@ -15,7 +15,7 @@
 | 🟡 | **A** | Deadeye | Ranger | ⬆️ A→S | ระบบเอื้อ clear speed · แต่ LA/Ice Shot มี nerf เล็กน้อย |
 | 🟡 | **A** | Infernalist | Witch | S→A | Minion bug fix +25-35% + Companion synergy |
 | 🟡 | **A** | Blood Mage | Witch | ⬆️ C→A | Leech node buff แต่ระบบ Leech เปลี่ยน — ต้องทดสอบ |
-| 🟡 | **A** | Witchhunter | Mercenary | — | Culling 35% = buff โดยตรง |
+| 🟡 | **A** | Witchhunter | Mercenary | — | ได้ประโยชน์จาก monster culling threshold + boss killer ยังดี |
 | 🟢 | **A** | Pathfinder | Ranger | S→A | 2 nerfs ยืนยัน — แต่ early game ยังแข็ง |
 | 🟡 | **A** | Amazon | Huntress | ⬆️ B→A | Cull the Weak Spear buff โดยตรง |
 | 🟡 | **A** | Oracle | Druid | S→A | พื้นฐานแข็ง — 0.5.0 แทบไม่ได้เพิ่ม |
@@ -184,14 +184,14 @@ Titan **ไม่มี 🔴 buff โดยตรงเลย** — แต่ร
 | 🥈 | **Deadeye Lightning Arrow** | 🟡 | เร็ว · Culling ดี · LA โดน nerf แต่ยังแรง |
 | 🥉 | **Oracle Lightning Caster** | 🟢 | แรง Act 1 · ES buff · ไม่มี nerf |
 | 4 | **Infernalist Minions** | 🟡 | Minion +25-35% · Companion synergy |
-| 5 | **Witchhunter Grenade** | 🟢 | Cull 35% · Boss killer |
+| 5 | **Witchhunter Grenade** | 🟢 | ได้ประโยชน์จาก culling threshold · Boss killer |
 | ⚡ | **Chronomancer** (dark horse) | 🟢 | Survivability S · HC god |
 
 ---
 
 > ⚠️ **หมายเหตุสำคัญเกี่ยวกับ Global Systems (ไม่ใช่บัฟเฉพาะคลาส):**
 > - **Companion 19 passive nodes** = passive tree ใหม่ (ทุกคลาสใช้ได้) — ไม่ใช่ buff เฉพาะ Infernalist/Shaman/Spirit Walker
-> - **Command Skills penalty 70→50%** = Minion command เท่านั้น — Infernalist/Spirit Walker/Lich ได้ · Titan/Warbringer ไม่ได้
+> - **Command Skills penalty 70→50%** = ใช้กับ Command Skills ตาม patch notes; อย่านับเป็น buff ตรงของ Titan/Warbringer เว้นแต่ build ใช้สกิลกลุ่มนี้จริง
 > - **Cull the Weak rework** = Spear skill — Amazon/Spirit Walker/Huntress ได้ · Warrior/Ranger ไม่ได้
 
 ---
