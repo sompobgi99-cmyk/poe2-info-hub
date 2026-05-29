@@ -311,6 +311,59 @@
 
 ---
 
+## 🔧 Support Gems
+
+> เปลี่ยนแปลง Support Gems ใน 0.5.0 · 🟢 Buff = แรงขึ้น · 🔴 Nerf = อ่อนลง · 🔄 Rework = เปลี่ยนกลไก
+
+---
+
+### 🟢 Buff
+
+| Support | เปลี่ยนแปลง | กระทบ |
+|---------|------------|--------|
+| **Salvo** | Seal ทุก 1s (เดิม 2s) · max 6 (เดิม 3) · 1 proj/Seal | Bow/Crossbow builds |
+| **Culmination II** | 4% more dmg/combo (เดิม 2%) · 6s combo loss (เดิม 4s) | Combo builds |
+| **Rage I/II/III** | ใช้กับ Minion Skills ได้แล้ว! | 🐺 Minion builds ใหญ่ |
+| **Refraction I/II** | Banners เพิ่ม Deflection Rating ให้ allies | Banner/Aura builds |
+| **Advancing Storm** | รองรับทุก Storm Skill (ไม่เฉพาะ spell ที่ใช้เอง) | Totem/Trap Storm |
+| **Morgana's Tempest** | รองรับทุก Storm Skill | Totem/Trap Storm |
+| **Doedre's Undoing** | แทนที่จะสร้าง Hazards → spawn Witchtoads ไล่ระเบิดศัตรู | Curse builds |
+| **Mark of Siphoning II** | เพิ่ม Life Leech 8% เพิ่มจากเดิมที่มีแต่ Mana | Attack builds |
+| **Brink I** | เป็น lv1 support ได้แล้ว (เดิม lv2) | Early game |
+
+---
+
+### 🔴 Nerf
+
+| Support | เปลี่ยนแปลง | กระทบ |
+|---------|------------|--------|
+| **Infernal Legion I/II** | 10% max life เป็น fire (เดิม 20%) — damage โดนครึ่ง! | Minion Ignite |
+| **Infernal Legion III** | ถูกลบออกจากเกม | RIP |
+| **Arjun's Medal** | 25% chance load bolt (เดิม 100%) | Crossbow |
+| **Bhatair's Vengeance** | 1% cold dmg per 2 Rage (เดิม 1% per 1) — halved! | Rage builds |
+| **Ratha's Assault** | Load 4 bolts (เดิม 5) · 3 additional (เดิม 4) · 10% atk speed (เดิม 20%) | Crossbow |
+| **Dialla's Desire** | +5% quality (เดิม +10%) — halved | Gem quality builds |
+| **Uhtred's Augury** | +2 level (เดิม +3) | 3-support setups |
+| **Uhtred's Omen** | +2 level (เดิม +3) | 2-support setups |
+| **Shock Conduction II** | ถูกลบออกจากเกม | Spark builds |
+| **Overextend** | ถูกลบออกจากเกม | AoE builds |
+| **Atziri's Impatience** | ใช้กับ Persistent Skills ไม่ได้แล้ว | Aura/Banner builds |
+
+---
+
+### 🔄 Rework
+
+| Support | เปลี่ยนแปลง |
+|---------|------------|
+| **Corrupting Cry I/II** | ไม่ inflict Corrupted Blood โดยตรง →  trigger สกิลใหม่ที่ inflict แทน (scale ตาม gem level) |
+| **Decaying Hex** | ไม่ inflict Decay โดยตรง → trigger สกิลใหม่ที่ inflict แทน |
+| **Paquate's Pact** | จาก inflict Corrupted Blood → จ่าย 10% max Life ต่อครั้งที่ใช้เร็วๆ นี้ (สูงสุด 30%) |
+| **Unleash/Expand/Salvo/Freezing Salvo** | รวมระบบ Seal เป็นมาตรฐานเดียวกัน — กฎ consistent ทุก Support |
+| **Volt** | 2 Voltaic Charge/m (เดิม 3) · แต่ 1% extra lightning ต่อ charge (เดิม 5% ต่อ 10 = 0.5%/charge) — ต่อ charge แรงขึ้น! |
+| **Living Lightning** | ไม่เปลี่ยน minion เก่าตอน summon ใหม่เมื่อเต็ม limit |
+
+---
+
 ## 🧟 Monster & System (ทุกคนได้)
 
 | เปลี่ยน | สถานะ |
