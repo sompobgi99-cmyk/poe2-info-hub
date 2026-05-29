@@ -23,6 +23,7 @@ NEW_ITEMS_PATH = _os.path.join(CONTENT_DIR, "poe2-new-items-0.5.md")
 CURRENCY_PATH = _os.path.join(CONTENT_DIR, "poe2-currency-reference.md")
 GEM_PATH = _os.path.join(CONTENT_DIR, "poe2-gem-reference.md")
 CAVEAT_PATH = _os.path.join(CONTENT_DIR, "poe2-caveats.md")
+LEAGUE_START_PATH = _os.path.join(CONTENT_DIR, "poe2-league-start.md")
 
 START_TIME = datetime.now(timezone.utc).isoformat()
 
@@ -37,6 +38,7 @@ PAGES = {
     "Currency": ("/currency", CURRENCY_PATH),
     "Gems": ("/gems", GEM_PATH),
     "⚠️ Caveats": ("/caveats", CAVEAT_PATH),
+    "League Start": ("/league-start", LEAGUE_START_PATH),
 }
 
 
@@ -212,6 +214,13 @@ def caveats():
     html = md_to_html(CAVEAT_PATH, "ยังไม่มีข้อมูล Caveats")
     mtime = file_mtime(CAVEAT_PATH)
     return render_template("caveats.html", content=html, last_updated=mtime)
+
+
+@app.route("/league-start")
+def league_start():
+    html = md_to_html(LEAGUE_START_PATH, "ยังไม่มีข้อมูล League Start Guide")
+    mtime = file_mtime(LEAGUE_START_PATH)
+    return render_template("league_start.html", content=html, last_updated=mtime)
 
 
 # ============================================================
