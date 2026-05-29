@@ -195,13 +195,13 @@
 
 | สกิล | เปลี่ยนแปลง | สถานะ |
 |------|------------|--------|
-| **Comet** | ดาเมจ 212-318 (เดิม 223-335) ที่ lv11 · lv20: 787-1181 (เดิม 829-1243) | 🟡 Nerf ~5% |
-| **Fire-Infused Comet** | ดาเมจ 212-318 (เดิม 279-418) ที่ lv11 · lv20: 787-1181 (เดิม 1036-1554) | 🔴 Nerf ~24% |
-| **Flame Breath** | เพิ่ม Energy Gain penalty (เหมือน Incinerate) | 🔴 Nerf |
-| **Volcano** | Base crit 5→8% | 🟢 Buff |
-| **Rolling Magma** | Chain 2-4 → 3-5 ครั้ง | 🟢 Buff |
-| **Oil Barrage** | ลด mana cost 18% · +10% dmg (ปกติ) · -10% dmg (Empowered) · charge ทุก 1.5s (เดิม 2s) | 🔄 Mixed |
-| **Fortifying Cry** | Shield Wave 5-7 phys/15 armour (เดิม 6-8) · ห้ามโดนศัตรูซ้ำจาก Shield Wall เดียว | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Comet_inventory_icon.png" width="22"> **Comet** | ดาเมจ 212-318 (เดิม 223-335) ที่ lv11 · lv20: 787-1181 (เดิม 829-1243) | 🟡 Nerf ~5% |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Comet_inventory_icon.png" width="22"> **Fire-Infused Comet** | ดาเมจ 212-318 (เดิม 279-418) ที่ lv11 · lv20: 787-1181 (เดิม 1036-1554) | 🔴 Nerf ~24% |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Flame_Breath_inventory_icon.png" width="22"> **Flame Breath** | เพิ่ม Energy Gain penalty (เหมือน Incinerate) | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Volcano_inventory_icon.png" width="22"> **Volcano** | Base crit 5→8% | 🟢 Buff |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Rolling_Magma_inventory_icon.png" width="22"> **Rolling Magma** | Chain 2-4 → 3-5 ครั้ง | 🟢 Buff |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Oil_Barrage_inventory_icon.png" width="22"> **Oil Barrage** | ลด mana cost 18% · +10% dmg (ปกติ) · -10% dmg (Empowered) · charge ทุก 1.5s (เดิม 2s) | 🔄 Mixed |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Fortifying_Cry_inventory_icon.png" width="22"> **Fortifying Cry** | Shield Wave 5-7 phys/15 armour (เดิม 6-8) · ห้ามโดนศัตรูซ้ำจาก Shield Wall เดียว | 🔴 Nerf |
 
 ---
 
@@ -209,11 +209,11 @@
 
 | สกิล | เปลี่ยนแปลง | สถานะ |
 |------|------------|--------|
-| **Freezing Salvo** | 34-68% more Chill/Freeze (เดิม 56-107%) | 🔴 Nerf ~37% |
-| **Ice Shot** | Ice Shards ไม่มี 25% more Freeze Buildup แล้ว | 🔴 Nerf |
-| **Eye of Winter** | Shard projectiles แสดงจำนวน/วินาที · เพิ่ม projectile ได้แล้ว | 🟢 Buff |
-| **Snipe** | 121-312% dmg (เดิม 133-343%) · Icy Blast 764-3067% · Explosion 3m (เดิม 3.2) | 🔴 Nerf |
-| **Fragmentation Rounds** | Quality เป็น +0-2 Fragments (เดิม 0-20% more Phys) | 🔄 Rework |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Freezing_Salvo_inventory_icon.png" width="22"> **Freezing Salvo** | 34-68% more Chill/Freeze (เดิม 56-107%) | 🔴 Nerf ~37% |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Ice_Shot_inventory_icon.png" width="22"> **Ice Shot** | Ice Shards ไม่มี 25% more Freeze Buildup แล้ว | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Eye_of_Winter_inventory_icon.png" width="22"> **Eye of Winter** | Shard projectiles แสดงจำนวน/วินาที · เพิ่ม projectile ได้แล้ว | 🟢 Buff |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Snipe_inventory_icon.png" width="22"> **Snipe** | 121-312% dmg (เดิม 133-343%) · Icy Blast 764-3067% · Explosion 3m (เดิม 3.2) | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Fragmentation_Rounds_inventory_icon.png" width="22"> **Fragmentation Rounds** | Quality เป็น +0-2 Fragments (เดิม 0-20% more Phys) | 🔄 Rework |
 
 ---
 
@@ -221,9 +221,9 @@
 
 | สกิล | เปลี่ยนแปลง | สถานะ |
 |------|------------|--------|
-| **Lightning Arrow** | หลาย Beam ไม่ chain ใส่ target เดิมซ้ำ | 🔴 Nerf |
-| **Tempest Bell** | สูงสุด 3 อัน (เดิม 1) · Ancestral Boost ได้ · Shockwave 45-119% (เดิม 60-132%) · ทุก 0.3s (เดิม 0.25s) | 🔄 Rework |
-| **Gathering Storm** | Perfect dash ระเบิด Tempest Bell 564-869% dmg · shockwave limit 50 | 🟢 Buff |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Lightning_Arrow_inventory_icon.png" width="22"> **Lightning Arrow** | หลาย Beam ไม่ chain ใส่ target เดิมซ้ำ | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Tempest_Bell_inventory_icon.png" width="22"> **Tempest Bell** | สูงสุด 3 อัน (เดิม 1) · Ancestral Boost ได้ · Shockwave 45-119% (เดิม 60-132%) · ทุก 0.3s (เดิม 0.25s) | 🔄 Rework |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Gathering_Storm_inventory_icon.png" width="22"> **Gathering Storm** | Perfect dash ระเบิด Tempest Bell 564-869% dmg · shockwave limit 50 | 🟢 Buff |
 | **Spark** (Shock Conduction II) | Support ถูกลบ | 🔴 Remove |
 
 ---
@@ -232,16 +232,16 @@
 
 | สกิล | เปลี่ยนแปลง | สถานะ |
 |------|------------|--------|
-| **Boneshatter** | Quality 0-20% increased atk speed (เดิม 0-30%) | 🟡 Nerf |
-| **Earthquake** | Aftershock 184-666% (เดิม 160-580%) | 🟢 Buff ~15% |
-| **Rolling Slam** | +1s atk time (เดิม +1.5s) = เร็วขึ้น · แต่ First 75-272% (เดิม 90-367%), Second 150-543% (เดิม 180-735%) | 🔄 Rework |
-| **Supercharged Slam** | คำอธิบายชัดเจนขึ้น — fixed attack time | 📝 Description |
-| **Ice Strike** | Quality 0-20% increased atk speed (เดิม 0-10% more) | 🔴 Nerf |
-| **Shred** | Quality 0-20% increased atk speed (เดิม 0-10% more) | 🔴 Nerf |
-| **Whirling Assault** | Quality 0-20% increased atk speed (เดิม 0-15% more) | 🔴 Nerf |
-| **Parry** | ลด Area of Effect · ไม่มี bonus Attack Distance | 🔴 Nerf |
-| **Rend** | Lightning-Charged Rend แก้บัค scale 2x · ชดเชย base damage | 🔄 Rework |
-| **Wing Blast** | Shockwave +25% more damage ทุกระดับ | 🟢 Buff |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Boneshatter_inventory_icon.png" width="22"> **Boneshatter** | Quality 0-20% increased atk speed (เดิม 0-30%) | 🟡 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Earthquake_inventory_icon.png" width="22"> **Earthquake** | Aftershock 184-666% (เดิม 160-580%) | 🟢 Buff ~15% |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Rolling_Slam_inventory_icon.png" width="22"> **Rolling Slam** | +1s atk time (เดิม +1.5s) = เร็วขึ้น · แต่ First 75-272% (เดิม 90-367%), Second 150-543% (เดิม 180-735%) | 🔄 Rework |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Supercharged_Slam_inventory_icon.png" width="22"> **Supercharged Slam** | คำอธิบายชัดเจนขึ้น — fixed attack time | 📝 Description |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Ice_Strike_inventory_icon.png" width="22"> **Ice Strike** | Quality 0-20% increased atk speed (เดิม 0-10% more) | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Shred_inventory_icon.png" width="22"> **Shred** | Quality 0-20% increased atk speed (เดิม 0-10% more) | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Whirling_Assault_inventory_icon.png" width="22"> **Whirling Assault** | Quality 0-20% increased atk speed (เดิม 0-15% more) | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Parry_inventory_icon.png" width="22"> **Parry** | ลด Area of Effect · ไม่มี bonus Attack Distance | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Rend_inventory_icon.png" width="22"> **Rend** | Lightning-Charged Rend แก้บัค scale 2x · ชดเชย base damage | 🔄 Rework |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Wing_Blast_inventory_icon.png" width="22"> **Wing Blast** | Shockwave +25% more damage ทุกระดับ | 🟢 Buff |
 
 ---
 
@@ -249,9 +249,9 @@
 
 | สกิล | เปลี่ยนแปลง | สถานะ |
 |------|------------|--------|
-| **Magma Barrier** | 5-7 fire/15 armour (เดิม 6-8) | 🟡 Nerf |
-| **Resonating Shield** | 5-7 phys/15 armour (เดิม 6-8) | 🟡 Nerf |
-| **Shield Wall** | 5-7 phys/15 armour (เดิม 6-8) | 🟡 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Magma_Barrier_inventory_icon.png" width="22"> **Magma Barrier** | 5-7 fire/15 armour (เดิม 6-8) | 🟡 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Resonating_Shield_inventory_icon.png" width="22"> **Resonating Shield** | 5-7 phys/15 armour (เดิม 6-8) | 🟡 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Shield_Wall_inventory_icon.png" width="22"> **Shield Wall** | 5-7 phys/15 armour (เดิม 6-8) | 🟡 Nerf |
 
 > ⚠️ Shield skills โดน nerf ถ้วนหน้า — ลด damage scaling จาก shield armour ~17%
 
@@ -261,12 +261,12 @@
 
 | สกิล | เปลี่ยนแปลง | สถานะ |
 |------|------------|--------|
-| **Cull the Weak** | Can't be Evaded · 109-281% dmg (เดิม 60-156%) · 75% atk speed (เดิม 60%) · dash +15% · ⚠️ Spear เท่านั้น | 🟢 Buff ใหญ่ |
-| **Poisonburst Arrow** | Poison duration 3s (เดิม 3-4.9s) · Quality 0-10% more poison (เดิม 0-20%) | 🔴 Nerf |
-| **Pounce** | Cooldown 6-5.1s (เดิม 4.9-4s) | 🔴 Nerf ~25% |
-| **Toxic Growth** | ยิง 5 pustules (เดิม 4) · limit 5 (เดิม 12) | 🔄 Rework |
-| **Snipe** | อยู่ใน Cold Skills (Icy Blast) + Base damage nerf | 🔴 Nerf |
-| **Mirage Archer / Deadeye** | ใช้กับ Channelled Skills ได้แล้ว (Snipe, Plasma Blast, Detonating Arrow) | 🟢 Buff |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Cull_The_Weak_inventory_icon.png" width="22"> **Cull the Weak** | Can't be Evaded · 109-281% dmg (เดิม 60-156%) · 75% atk speed (เดิม 60%) · dash +15% · ⚠️ Spear เท่านั้น | 🟢 Buff ใหญ่ |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Poisonburst_Arrow_inventory_icon.png" width="22"> **Poisonburst Arrow** | Poison duration 3s (เดิม 3-4.9s) · Quality 0-10% more poison (เดิม 0-20%) | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Pounce_inventory_icon.png" width="22"> **Pounce** | Cooldown 6-5.1s (เดิม 4.9-4s) | 🔴 Nerf ~25% |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Toxic_Growth_inventory_icon.png" width="22"> **Toxic Growth** | ยิง 5 pustules (เดิม 4) · limit 5 (เดิม 12) | 🔄 Rework |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Snipe_inventory_icon.png" width="22"> **Snipe** | อยู่ใน Cold Skills (Icy Blast) + Base damage nerf | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Mirage_Archer_inventory_icon.png" width="22"> **Mirage Archer / Deadeye** | ใช้กับ Channelled Skills ได้แล้ว (Snipe, Plasma Blast, Detonating Arrow) | 🟢 Buff |
 
 ---
 
@@ -275,13 +275,13 @@
 | สกิล | เปลี่ยนแปลง | สถานะ |
 |------|------------|--------|
 | **Command Skills** (ทั้งหมด) | Movement penalty 70→50% | 🟢 Buff |
-| **Tame Beast** | Summoned Beasts 40-84% more damage · เรียกทันทีถ้ามี spirit พอ | 🟢 Buff |
-| **Ancestral Warrior Totem** | ลบดีเลย์ 0.6s · delay = 50% of atk time | 🟢 Buff |
-| **Spell Totem** | ใช้ขณะเคลื่อนที่ได้แล้ว + animation ใหม่ | 🟢 Buff |
-| **Ravenous Swarm** | CDR มีผลกับ swarm spawn frequency | 🟢 Buff |
-| **Grim Feast** | Grim Resurrection มี 1s cooldown | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Tame_Beast_inventory_icon.png" width="22"> **Tame Beast** | Summoned Beasts 40-84% more damage · เรียกทันทีถ้ามี spirit พอ | 🟢 Buff |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Ancestral_Warrior_Totem_inventory_icon.png" width="22"> **Ancestral Warrior Totem** | ลบดีเลย์ 0.6s · delay = 50% of atk time | 🟢 Buff |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Spell_Totem_inventory_icon.png" width="22"> **Spell Totem** | ใช้ขณะเคลื่อนที่ได้แล้ว + animation ใหม่ | 🟢 Buff |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Ravenous_Swarm_inventory_icon.png" width="22"> **Ravenous Swarm** | CDR มีผลกับ swarm spawn frequency | 🟢 Buff |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Grim_Feast_inventory_icon.png" width="22"> **Grim Feast** | Grim Resurrection มี 1s cooldown | 🔴 Nerf |
 | **Minion damage bug fix** | late-game +25-35% damage | 🟢 Buff |
-| **Feral Invocation** | ไม่ bypass cooldown ของ socketed skills แล้ว | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Feral_Invocation_inventory_icon.png" width="22"> **Feral Invocation** | ไม่ bypass cooldown ของ socketed skills แล้ว | 🔴 Nerf |
 
 ---
 
@@ -290,10 +290,10 @@
 | สกิล | เปลี่ยนแปลง | สถานะ |
 |------|------------|--------|
 | **Banners** (Defiance/Dread/War) | ไม่มี movement penalty · radius 4.5→6m | 🟢 Buff |
-| **Barkskin** | 50→62% ES as Armour (lv8→20) | 🟢 Buff |
-| **Ghost Dance** | Ghost Shroud ทุก 11.7-10.1s (เดิม 7.6-6.1) · CDR มีผล · ES regen 2% evasion/s ถ้าเสีย Ghost Shroud | 🔄 Rework |
-| **Time of Need** | Blessing ทุก 9.3-8.1s (เดิม 11.3-10.1) · CDR มีผล | 🟢 Buff |
-| **Eternal Rage** | ต้อง active ทั้ง 2 weapon sets · ห้าม set-specific | 🔴 Nerf |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Barkskin_inventory_icon.png" width="22"> **Barkskin** | 50→62% ES as Armour (lv8→20) | 🟢 Buff |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Ghost_Dance_inventory_icon.png" width="22"> **Ghost Dance** | Ghost Shroud ทุก 11.7-10.1s (เดิม 7.6-6.1) · CDR มีผล · ES regen 2% evasion/s ถ้าเสีย Ghost Shroud | 🔄 Rework |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Time_of_Need_inventory_icon.png" width="22"> **Time of Need** | Blessing ทุก 9.3-8.1s (เดิม 11.3-10.1) · CDR มีผล | 🟢 Buff |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Eternal_Rage_inventory_icon.png" width="22"> **Eternal Rage** | ต้อง active ทั้ง 2 weapon sets · ห้าม set-specific | 🔴 Nerf |
 
 ---
 
@@ -301,8 +301,8 @@
 
 | สกิล | เปลี่ยนแปลง | สถานะ |
 |------|------------|--------|
-| **Bonestorm** | ไม่มี Sustained tag | 📝 Description |
-| **Lunar Blessing** | Moonbeams ไม่ใช่ melee skills แล้ว | 🔄 Change |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Bonestorm_inventory_icon.png" width="22"> **Bonestorm** | ไม่มี Sustained tag | 📝 Description |
+| <img src="https://www.poe2wiki.net/wiki/Special:FilePath/Lunar_Blessing_inventory_icon.png" width="22"> **Lunar Blessing** | Moonbeams ไม่ใช่ melee skills แล้ว | 🔄 Change |
 | **Crossbow Ammo Skills** | Base cost 0 (เดิมไม่มี cost เลย) → +cost modifiers มีผล | 🔄 Rework |
 | **Shattering Spite** (Atziri's Contempt) | 50% less Magnitude of Damaging Ailments · ไม่มี instant life leech | 🔴 Nerf |
 | **Align Fate** (Oracle) | CDR มีผลกับ visage frequency | 🟢 Buff |
