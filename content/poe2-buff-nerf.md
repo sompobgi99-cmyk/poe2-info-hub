@@ -2,7 +2,7 @@
 
 > อัปเดตจาก Patch Notes ทุกรอบ · 28 พ.ค. 2026 · รูป Ascendancy จาก Maxroll
 >
-> 🔴 = Ascendancy โดยตรง · 🟡 = Keystone/Passive ที่เอื้อ · 🟢 = System ทุกคนได้
+> 🔴 = Ascendancy โดยตรง · 🟡 = Keystone/Passive ที่เอื้อ · 🟢 = System ทุกคนได้ · 💎 = Skill Gems
 
 ---
 
@@ -185,18 +185,136 @@
 
 ---
 
+## 💎 Skill Gems
+
+> เปลี่ยนแปลงเฉพาะสกิลเกม (Active Skill Gems) ใน 0.5.0 · 🟢 Buff = แรงขึ้น · 🔴 Nerf = อ่อนลง · 🔄 Rework = เปลี่ยนกลไก
+
+---
+
+### 🔥 Fire Skills
+
+| สกิล | เปลี่ยนแปลง | สถานะ |
+|------|------------|--------|
+| **Comet** | ดาเมจ 212-318 (เดิม 223-335) ที่ lv11 · lv20: 787-1181 (เดิม 829-1243) | 🟡 Nerf ~5% |
+| **Fire-Infused Comet** | ดาเมจ 212-318 (เดิม 279-418) ที่ lv11 · lv20: 787-1181 (เดิม 1036-1554) | 🔴 Nerf ~24% |
+| **Flame Breath** | เพิ่ม Energy Gain penalty (เหมือน Incinerate) | 🔴 Nerf |
+| **Volcano** | Base crit 5→8% | 🟢 Buff |
+| **Rolling Magma** | Chain 2-4 → 3-5 ครั้ง | 🟢 Buff |
+| **Oil Barrage** | ลด mana cost 18% · +10% dmg (ปกติ) · -10% dmg (Empowered) · charge ทุก 1.5s (เดิม 2s) | 🔄 Mixed |
+| **Fortifying Cry** | Shield Wave 5-7 phys/15 armour (เดิม 6-8) · ห้ามโดนศัตรูซ้ำจาก Shield Wall เดียว | 🔴 Nerf |
+
+---
+
+### 🧊 Cold Skills
+
+| สกิล | เปลี่ยนแปลง | สถานะ |
+|------|------------|--------|
+| **Freezing Salvo** | 34-68% more Chill/Freeze (เดิม 56-107%) | 🔴 Nerf ~37% |
+| **Ice Shot** | Ice Shards ไม่มี 25% more Freeze Buildup แล้ว | 🔴 Nerf |
+| **Eye of Winter** | Shard projectiles แสดงจำนวน/วินาที · เพิ่ม projectile ได้แล้ว | 🟢 Buff |
+| **Snipe** | 121-312% dmg (เดิม 133-343%) · Icy Blast 764-3067% · Explosion 3m (เดิม 3.2) | 🔴 Nerf |
+| **Fragmentation Rounds** | Quality เป็น +0-2 Fragments (เดิม 0-20% more Phys) | 🔄 Rework |
+
+---
+
+### ⚡ Lightning Skills
+
+| สกิล | เปลี่ยนแปลง | สถานะ |
+|------|------------|--------|
+| **Lightning Arrow** | หลาย Beam ไม่ chain ใส่ target เดิมซ้ำ | 🔴 Nerf |
+| **Tempest Bell** | สูงสุด 3 อัน (เดิม 1) · Ancestral Boost ได้ · Shockwave 45-119% (เดิม 60-132%) · ทุก 0.3s (เดิม 0.25s) | 🔄 Rework |
+| **Gathering Storm** | Perfect dash ระเบิด Tempest Bell 564-869% dmg · shockwave limit 50 | 🟢 Buff |
+| **Spark** (Shock Conduction II) | Support ถูกลบ | 🔴 Remove |
+
+---
+
+### 🗡️ Physical / Melee / Strike
+
+| สกิล | เปลี่ยนแปลง | สถานะ |
+|------|------------|--------|
+| **Boneshatter** | Quality 0-20% increased atk speed (เดิม 0-30%) | 🟡 Nerf |
+| **Earthquake** | Aftershock 184-666% (เดิม 160-580%) | 🟢 Buff ~15% |
+| **Rolling Slam** | +1s atk time (เดิม +1.5s) = เร็วขึ้น · แต่ First 75-272% (เดิม 90-367%), Second 150-543% (เดิม 180-735%) | 🔄 Rework |
+| **Supercharged Slam** | คำอธิบายชัดเจนขึ้น — fixed attack time | 📝 Description |
+| **Ice Strike** | Quality 0-20% increased atk speed (เดิม 0-10% more) | 🔴 Nerf |
+| **Shred** | Quality 0-20% increased atk speed (เดิม 0-10% more) | 🔴 Nerf |
+| **Whirling Assault** | Quality 0-20% increased atk speed (เดิม 0-15% more) | 🔴 Nerf |
+| **Parry** | ลด Area of Effect · ไม่มี bonus Attack Distance | 🔴 Nerf |
+| **Rend** | Lightning-Charged Rend แก้บัค scale 2x · ชดเชย base damage | 🔄 Rework |
+| **Wing Blast** | Shockwave +25% more damage ทุกระดับ | 🟢 Buff |
+
+---
+
+### 🛡️ Shield Skills
+
+| สกิล | เปลี่ยนแปลง | สถานะ |
+|------|------------|--------|
+| **Magma Barrier** | 5-7 fire/15 armour (เดิม 6-8) | 🟡 Nerf |
+| **Resonating Shield** | 5-7 phys/15 armour (เดิม 6-8) | 🟡 Nerf |
+| **Shield Wall** | 5-7 phys/15 armour (เดิม 6-8) | 🟡 Nerf |
+
+> ⚠️ Shield skills โดน nerf ถ้วนหน้า — ลด damage scaling จาก shield armour ~17%
+
+---
+
+### 🏹 Bow / Projectile / Spear
+
+| สกิล | เปลี่ยนแปลง | สถานะ |
+|------|------------|--------|
+| **Cull the Weak** | Can't be Evaded · 109-281% dmg (เดิม 60-156%) · 75% atk speed (เดิม 60%) · dash +15% · ⚠️ Spear เท่านั้น | 🟢 Buff ใหญ่ |
+| **Poisonburst Arrow** | Poison duration 3s (เดิม 3-4.9s) · Quality 0-10% more poison (เดิม 0-20%) | 🔴 Nerf |
+| **Pounce** | Cooldown 6-5.1s (เดิม 4.9-4s) | 🔴 Nerf ~25% |
+| **Toxic Growth** | ยิง 5 pustules (เดิม 4) · limit 5 (เดิม 12) | 🔄 Rework |
+| **Snipe** | อยู่ใน Cold Skills (Icy Blast) + Base damage nerf | 🔴 Nerf |
+| **Mirage Archer / Deadeye** | ใช้กับ Channelled Skills ได้แล้ว (Snipe, Plasma Blast, Detonating Arrow) | 🟢 Buff |
+
+---
+
+### 🐺 Minion / Companion / Totem
+
+| สกิล | เปลี่ยนแปลง | สถานะ |
+|------|------------|--------|
+| **Command Skills** (ทั้งหมด) | Movement penalty 70→50% | 🟢 Buff |
+| **Tame Beast** | Summoned Beasts 40-84% more damage · เรียกทันทีถ้ามี spirit พอ | 🟢 Buff |
+| **Ancestral Warrior Totem** | ลบดีเลย์ 0.6s · delay = 50% of atk time | 🟢 Buff |
+| **Spell Totem** | ใช้ขณะเคลื่อนที่ได้แล้ว + animation ใหม่ | 🟢 Buff |
+| **Ravenous Swarm** | CDR มีผลกับ swarm spawn frequency | 🟢 Buff |
+| **Grim Feast** | Grim Resurrection มี 1s cooldown | 🔴 Nerf |
+| **Minion damage bug fix** | late-game +25-35% damage | 🟢 Buff |
+| **Feral Invocation** | ไม่ bypass cooldown ของ socketed skills แล้ว | 🔴 Nerf |
+
+---
+
+### 🛡️ Defence / Aura / Buff
+
+| สกิล | เปลี่ยนแปลง | สถานะ |
+|------|------------|--------|
+| **Banners** (Defiance/Dread/War) | ไม่มี movement penalty · radius 4.5→6m | 🟢 Buff |
+| **Barkskin** | 50→62% ES as Armour (lv8→20) | 🟢 Buff |
+| **Ghost Dance** | Ghost Shroud ทุก 11.7-10.1s (เดิม 7.6-6.1) · CDR มีผล · ES regen 2% evasion/s ถ้าเสีย Ghost Shroud | 🔄 Rework |
+| **Time of Need** | Blessing ทุก 9.3-8.1s (เดิม 11.3-10.1) · CDR มีผล | 🟢 Buff |
+| **Eternal Rage** | ต้อง active ทั้ง 2 weapon sets · ห้าม set-specific | 🔴 Nerf |
+
+---
+
+### ⚗️ อื่นๆ
+
+| สกิล | เปลี่ยนแปลง | สถานะ |
+|------|------------|--------|
+| **Bonestorm** | ไม่มี Sustained tag | 📝 Description |
+| **Lunar Blessing** | Moonbeams ไม่ใช่ melee skills แล้ว | 🔄 Change |
+| **Crossbow Ammo Skills** | Base cost 0 (เดิมไม่มี cost เลย) → +cost modifiers มีผล | 🔄 Rework |
+| **Shattering Spite** (Atziri's Contempt) | 50% less Magnitude of Damaging Ailments · ไม่มี instant life leech | 🔴 Nerf |
+| **Align Fate** (Oracle) | CDR มีผลกับ visage frequency | 🟢 Buff |
+| **Chaos spell bug fixes** | — | 🟢 Fix |
+| **Ignite on Oil Ground** | ไม่ compound ซ้ำจาก skill ใช้ครั้งเดียวกัน | 🔴 Nerf |
+
+---
+
 ## 🧟 Monster & System (ทุกคนได้)
 
 | เปลี่ยน | สถานะ |
 |--------|--------|
-| **Command Skills** movement penalty 70→50% | 🟢 Buff เฉพาะ build ที่ใช้ Command Skills |
-| **Cull the Weak** รีเวิร์ค — Can't be Evaded, 109-281% dmg, dash +15% (⚠️ Spear เท่านั้น) | 🟢 Buff |
-| **Banners** (Defiance/Dread/War) ไม่มี movement penalty, radius 4.5→6m | 🟢 Buff |
-| **Barkskin** 50→62% ES as Armour (ที่ lv8→20) | 🟢 Buff |
-| **Comet** ดาเมจลด 212-318 (เดิม 223-335 ที่ lv11) | 🟡 Nerf |
-| **Fire-Infused Comet** ดาเมจลดมาก 212-318 (เดิม 279-418) | 🔴 Nerf |
-| **Minion damage bug fix** — late-game +25-35% | 🟢 Buff |
-| **Chaos spell bug fixes** | 🟢 Fix |
 | Culling Threshold 30→35% | 🟢 Buff |
 | Leech resistance ลดลงทั้งเกม | 🟢 Buff |
 | Monster density ลด + Act 2 สั้น + Act 3 จัดใหม่ | 🟢 Campaign เร็วขึ้น |
