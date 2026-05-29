@@ -22,15 +22,15 @@
 
 ## ⚔️ Warrior
 
-> 🎯 **Ascendancy แนะนำ:** Titan (Warbringer ก็ใช้ guide เดียวกันได้)
+> 🎯 **Ascendancy แนะนำ:** <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/titan.webp" width="22"> Titan (Warbringer ก็ใช้ guide เดียวกันได้)
 
 ### 📋 Skill Progression
 
 | Act | Level | สกิลหลัก | Support แนะนำ |
 |-----|-------|----------|---------------|
-| Act 1 | 1-15 | **Rolling Slam** → **Earthquake** (lv12) | Fist of War, Brutality |
-| Act 2 | 15-25 | **Earthquake** + **Boneshatter** (stun) | Melee Phys, Heavy Swing |
-| Act 3 | 25-35 | **Boneshatter** (main) + **Supercharged Slam** | Pulverise, Rage |
+| Act 1 | 1-15 | <img src="https://www.poe2wiki.net/images/a/a9/Rolling_Slam_inventory_icon.png" width="20"> **Rolling Slam** → <img src="https://www.poe2wiki.net/images/8/83/Earthquake_inventory_icon.png" width="20"> **Earthquake** (lv12) | Fist of War, Brutality |
+| Act 2 | 15-25 | <img src="https://www.poe2wiki.net/images/8/83/Earthquake_inventory_icon.png" width="20"> **Earthquake** + <img src="https://www.poe2wiki.net/images/1/15/Boneshatter_inventory_icon.png" width="20"> **Boneshatter** (stun) | Melee Phys, Heavy Swing |
+| Act 3 | 25-35 | <img src="https://www.poe2wiki.net/images/1/15/Boneshatter_inventory_icon.png" width="20"> **Boneshatter** (main) + **Supercharged Slam** | Pulverise, Rage |
 | Cruel 1 | 35-45 | เพิ่ม **Ancestral Warrior Totem** | Ancestral Bond (Keystone) |
 | Cruel 2 | 45-55 | Totem + Slam hybrid | Multiple Totems |
 | Cruel 3 | 55+ | ครบ build endgame | — |
@@ -72,16 +72,16 @@
 
 ## 🧙 Sorceress
 
-> 🎯 **Ascendancy แนะนำ:** Chronomancer (rework แรง) / Stormweaver (Archmage)
+> 🎯 **Ascendancy แนะนำ:** <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/chronomancer.webp" width="22"> Chronomancer (rework แรง) / Stormweaver (Archmage)
 
 ### 📋 Skill Progression
 
 | Act | Level | สกิลหลัก | Support แนะนำ |
 |-----|-------|----------|---------------|
-| Act 1 | 1-15 | **Spark** → **Arc** (lv10) | Pierce, Controlled Destruction |
-| Act 2 | 15-25 | **Arc** + **Flame Wall** | Chain, Elemental Focus |
-| Act 3 | 25-35 | **Comet** (lv28) / **Fireball** | Spell Echo, Concentrated Effect |
-| Cruel 1 | 35-45 | **Comet** + **Frost Wall** | Cold Pen, Inspiration |
+| Act 1 | 1-15 | <img src="https://www.poe2wiki.net/images/4/4b/Spark_inventory_icon.png" width="20"> **Spark** → <img src="https://www.poe2wiki.net/images/7/71/Arc_inventory_icon.png" width="20"> **Arc** (lv10) | Pierce, Controlled Destruction |
+| Act 2 | 15-25 | <img src="https://www.poe2wiki.net/images/7/71/Arc_inventory_icon.png" width="20"> **Arc** + **Flame Wall** | Chain, Elemental Focus |
+| Act 3 | 25-35 | <img src="https://www.poe2wiki.net/images/7/76/Comet_inventory_icon.png" width="20"> **Comet** (lv28) / **Fireball** | Spell Echo, Concentrated Effect |
+| Cruel 1 | 35-45 | <img src="https://www.poe2wiki.net/images/7/76/Comet_inventory_icon.png" width="20"> **Comet** + **Frost Wall** | Cold Pen, Inspiration |
 | Cruel 2 | 45-55 | Archmage setup เริ่ม | Archmage, Lightning Mastery |
 | Cruel 3 | 55+ | CI transition (ถ้าใช้ ES) | — |
 
@@ -114,22 +114,22 @@
 
 ### 📝 หมายเหตุ 0.5.0
 
-- **Comet** (-5%) / **Fire-Infused Comet** (-24%) — ยังใช้ได้ แต่แรงน้อยลง
-- **Chronomancer** rework 5 จุด — survivability พุ่ง ตี S-tier
-- **Spark** Shock Conduction II โดนลบ — ใช้ Arc แทนช่วงต้น
+- <img src="https://www.poe2wiki.net/images/7/76/Comet_inventory_icon.png" width="20"> **Comet** (-5%) / **Fire-Infused Comet** (-24%) — ยังใช้ได้ แต่แรงน้อยลง
+- <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/chronomancer.webp" width="22"> **Chronomancer** rework 5 จุด — survivability พุ่ง ตี S-tier
+- <img src="https://www.poe2wiki.net/images/4/4b/Spark_inventory_icon.png" width="20"> **Spark** Shock Conduction II โดนลบ — ใช้ Arc แทนช่วงต้น
 
 ---
 
 ## 🥋 Monk
 
-> 🎯 **Ascendancy แนะนำ:** Invoker (classic) / Martial Artist 🆕 (เสี่ยง)
+> 🎯 **Ascendancy แนะนำ:** <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/invoker.webp" width="22"> Invoker (classic) / Martial Artist 🆕 (เสี่ยง)
 
 ### 📋 Skill Progression
 
 | Act | Level | สกิลหลัก | Support แนะนำ |
 |-----|-------|----------|---------------|
-| Act 1 | 1-15 | **Ice Strike** → **Tempest Bell** (lv8) | Faster Attacks, Cold Pen |
-| Act 2 | 15-25 | **Ice Strike** + **Bell** combo | Melee Phys, Elemental Army |
+| Act 1 | 1-15 | <img src="https://www.poe2wiki.net/images/7/75/Ice_Strike_inventory_icon.png" width="20"> **Ice Strike** → <img src="https://www.poe2wiki.net/images/c/c9/Tempest_Bell_inventory_icon.png" width="20"> **Tempest Bell** (lv8) | Faster Attacks, Cold Pen |
+| Act 2 | 15-25 | <img src="https://www.poe2wiki.net/images/7/75/Ice_Strike_inventory_icon.png" width="20"> **Ice Strike** + **Bell** combo | Melee Phys, Elemental Army |
 | Act 3 | 25-35 | **Charged Staff** + **Gathering Storm** | Inc AoE, Lightning Infusion |
 | Cruel 1 | 35-45 | Bell spam 3 อัน + Ancestral Boost | Pulverise, Rage |
 | Cruel 2 | 45-55 | Elemental Equilibrium (ถ้าใช้หลายธาตุ) | Trinity |
@@ -163,21 +163,21 @@
 
 ### 📝 หมายเหตุ 0.5.0
 
-- **Tempest Bell** — 3 อัน (เดิม 1)! Combo ศักยภาพพุ่ง
+- <img src="https://www.poe2wiki.net/images/c/c9/Tempest_Bell_inventory_icon.png" width="20"> **Tempest Bell** — 3 อัน (เดิม 1)! Combo ศักยภาพพุ่ง
 - **Gathering Storm** — Perfect dash ระเบิด Bell = boss killer ใหม่
-- **Martial Artist** 🆕 = ใหม่ — ถ้าชอบ risk/reward ลองได้
+- <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/martial-artist.webp" width="22"> **Martial Artist** 🆕 = ใหม่ — ถ้าชอบ risk/reward ลองได้
 
 ---
 
 ## 🏹 Ranger
 
-> 🎯 **Ascendancy แนะนำ:** Deadeye (fastest) / Pathfinder (poison)
+> 🎯 **Ascendancy แนะนำ:** <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/deadeye.webp" width="22"> Deadeye (fastest) / Pathfinder (poison)
 
 ### 📋 Skill Progression
 
 | Act | Level | สกิลหลัก | Support แนะนำ |
 |-----|-------|----------|---------------|
-| Act 1 | 1-15 | **Lightning Arrow** + **Rod** | Pierce, Added Lightning |
+| Act 1 | 1-15 | <img src="https://www.poe2wiki.net/images/9/9e/Lightning_Arrow_inventory_icon.png" width="20"> **Lightning Arrow** + **Rod** | Pierce, Added Lightning |
 | Act 2 | 15-25 | **LA** + **Ice Shot** (freeze) | Chain, Cold Pen |
 | Act 3 | 25-35 | **LA** + **Ballista** / **Mirage Archer** | LMP/GMP, Elemental Focus |
 | Cruel 1 | 35-45 | Mirage Archer + Channelled (Snipe!) | — |
@@ -212,7 +212,7 @@
 
 ### 📝 หมายเหตุ 0.5.0
 
-- **Lightning Arrow** — beam ไม่ chain ซ้ำ target = boss damage ลด แต่ clear เหมือนเดิม
+- <img src="https://www.poe2wiki.net/images/9/9e/Lightning_Arrow_inventory_icon.png" width="20"> **Lightning Arrow** — beam ไม่ chain ซ้ำ target = boss damage ลด แต่ clear เหมือนเดิม
 - **Ice Shot** — เสีย 25% more Freeze → ใช้ LA เป็นหลัก
 - **Mirage Archer/Deadeye** — ใช้กับ Channelled Skills ได้แล้ว (Snipe!) = buff ใหญ่
 
@@ -220,7 +220,7 @@
 
 ## 🏹 Huntress
 
-> 🎯 **Ascendancy แนะนำ:** Amazon (Cull the Weak) / Spirit Walker 🆕
+> 🎯 **Ascendancy แนะนำ:** <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/amazon.webp" width="22"> Amazon (Cull the Weak) / Spirit Walker 🆕
 
 ### 📋 Skill Progression
 
@@ -228,7 +228,7 @@
 |-----|-------|----------|---------------|
 | Act 1 | 1-15 | **Spear skills** (varies by patch) | — |
 | Act 2 | 15-25 | **Whirling Assault** + **Pounce** | Melee Phys, Bleed |
-| Act 3 | 25-35 | **Cull the Weak** (lv32+) | Brutality, Melee Phys |
+| Act 3 | 25-35 | <img src="https://www.poe2wiki.net/images/7/77/Cull_The_Weak_inventory_icon.png" width="20"> **Cull the Weak** (lv32+) | Brutality, Melee Phys |
 | Cruel 1 | 35-45 | Cull the Weak main | Fortify, Pulverise |
 | Cruel 2 | 45-55 | เพิ่ม Companion (Spirit Walker) | Companion supports |
 | Cruel 3 | 55+ | Endgame Spear | — |
@@ -248,7 +248,7 @@
 | Level | Powerspike |
 |-------|-----------|
 | **32** | Cull the Weak — 109-281% dmg + Can't be Evaded |
-| **45** | Amazon ascendancy powerspike |
+| **45** | <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/amazon.webp" width="20"> Amazon ascendancy powerspike |
 | **55** | Spirit Walker companion synergy |
 
 ### 🛡️ Gear Priority
@@ -262,14 +262,14 @@
 
 - **Huntress เพิ่งเข้าเกม** — meta ยังไม่นิ่ง
 - **Cull the Weak = Spear เท่านั้น** — ห้ามใช้ Bow
-- **Amazon** = safe pick · **Spirit Walker** = new, risky
+- <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/amazon.webp" width="22"> **Amazon** = safe pick · <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/spirit-walker.webp" width="22"> **Spirit Walker** = new, risky
 - **Pounce** โดน nerf cooldown 25% — ไม่ spam ได้แล้ว
 
 ---
 
 ## 🧙‍♀️ Witch
 
-> 🎯 **Ascendancy แนะนำ:** Infernalist (minion — safest) / Blood Mage (spell leech)
+> 🎯 **Ascendancy แนะนำ:** <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/infernalist.webp" width="22"> Infernalist (minion — safest) / Blood Mage (spell leech)
 
 ### 📋 Skill Progression (Minion)
 
@@ -313,14 +313,14 @@
 - **Minion damage bug fix** = +25-35% late-game — ใหญ่!
 - **Rage I/II/III** ใช้กับ Minion ได้แล้ว — game changer
 - **Companion 19 passive nodes** — global tree = ทุก minion build ได้
-- **Infernalist** ไม่มี ascendancy buff โดยตรง — แต่ system buffs เอื้อ minion
+- <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/infernalist.webp" width="22"> **Infernalist** ไม่มี ascendancy buff โดยตรง — แต่ system buffs เอื้อ minion
 - Act 1 ช้า — minion ยังไม่เยอะ · ถึง Act 2+ เร็วขึ้น
 
 ---
 
 ## 🏹 Mercenary
 
-> 🎯 **Ascendancy แนะนำ:** Witchhunter (boss killer) / Gemling (risky — week 2)
+> 🎯 **Ascendancy แนะนำ:** <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/witchhunter.webp" width="22"> Witchhunter (boss killer) / Gemling (risky — week 2)
 
 ### 📋 Skill Progression
 
@@ -349,7 +349,7 @@
 |-------|-----------|
 | **12** | Galvanic Shards — AoE clear |
 | **22** | Explosive Grenade — boss killer |
-| **31** | Witchhunter ascendancy — culling + boss damage |
+| **31** | <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/witchhunter.webp" width="20"> Witchhunter ascendancy — culling + boss damage |
 | **45** | Grenade spam + Cluster Grenade |
 
 ### 🛡️ Gear Priority
@@ -364,7 +364,7 @@
 - **Crossbow Ammo** — base cost 0 → +cost modifiers มีผล (buff: Rage/Lifetap ใช้ได้)
 - **Grenade builds** ได้ buff จาก system changes
 - **Arjun's Medal** 100%→25% (nerf) — อย่าพึ่ง support นี้
-- **Gemling** rework — ศักยภาพสูงแต่ต้องรอ week 2
+- <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/gemling-legionnaire.webp" width="22"> **Gemling** rework — ศักยภาพสูงแต่ต้องรอ week 2
 
 ---
 
@@ -403,7 +403,7 @@
 - **Act 1 boss** (The Executioner) — หลบ slam ด้านข้าง
 - **Act 2 boss** (Jamanra) — Lightning res cap!
 - **Act 3 boss** (Doryani) — Chaos damage — Amethyst Flask
-- **Chronomancer** = HC god tier (30% less damage taken)
+- <img src="https://assets-ng.maxroll.gg/images/poe2/ascendancy/chronomancer.webp" width="22"> **Chronomancer** = HC god tier (30% less damage taken)
 
 ---
 
